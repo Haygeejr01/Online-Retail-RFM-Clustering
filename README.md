@@ -39,7 +39,7 @@ While the mathematical evaluations strongly pointed to **k=2** as the cleanest s
 ## Visualizations
 By plotting the standardized RFM values on a 3D axis, we can physically see how the K-Means algorithm separated the customer base.
 
-![3D Cluster Plot](online4.jpg)
+![3D Cluster Plot](online4.png)
 
 ## How to Run This Project
 1. Clone the repository.
